@@ -1,17 +1,23 @@
-<h1>Hello, I'm Chris! <br/><a href="https://github.com/Korachof/Korachof">Programmer</a>, <a href="www.linkedin.com/in/christopher-partin-6a8b88291">Budding Software Engineer</a>, Writer
+<h1>Hello, I'm Chris! Thanks for visiting
+<br/><a href="https://github.com/Korachof/Korachof">Programmer</a>, <a href="www.linkedin.com/in/christopher-partin-6a8b88291">Budding Software Engineer</a>, Writer
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2><img align="left" alt="ChrisPartin" width="22px" src="https://github.com/Korachof/Korachof/assets/114110894/4954f573-c8b6-4b7a-a9fb-4da29ce45f9f" />
+ Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Data Structures and Algorithms Practice</b>
   - [Doubly Linked List](https://https://github.com/Korachof/Doubly_Linked_List)
   - [Binary Search Tree](https://github.com/Korachof/binary_search_tree)
+  - [Queue](https://https://github.com/Korachof/Queue)
+  - [Graph Data Structure](https://https://github.com/Korachof/Graphs-Data-Structure)
+    
 - <b>Python</b>
   - [Rock Paper Scissors Game Application (Object-Oriented Programming)](https://github.com/Korachof/rockPaperScissors)
   - [Hangman Game Application (Object-Oriented Programming)](https://github.com/Korachof/hangman)
+    
 - <b>School Projects</b>
-  - 
 
-<h2> 🤳 Connect with me:</h2>
+<h2><img align="left" alt="ChrisPartin" width="22px" src="https://github.com/Korachof/Korachof/assets/114110894/b378f93a-76c1-4d9f-b787-c9eb77038032" />
+ Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
