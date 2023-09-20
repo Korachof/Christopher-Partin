@@ -3,7 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Doubly Linked List](https://https://github.com/Korachof/Doubly_Linked_List)
+  - [Binary Search Tree](https://github.com/Korachof/binary_search_tree)
 - <b>Python</b>
   - [Rock Paper Scissors Game Application (Object-Oriented Programming)](https://github.com/Korachof/rockPaperScissors)
   - [Hangman Game Application (Object-Oriented Programming)](https://github.com/Korachof/hangman)
