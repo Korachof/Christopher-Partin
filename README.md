@@ -18,6 +18,7 @@
   - [Encoded Message Generator](https://https://github.com/Korachof/Encoded-Message_Generator.git)
     
 - <b>School Projects</b>
+  - [Streaming Guide (Object-Oriented Programming)](https://github.com/Korachof/streaming_guide/blob/main/steaming_guide.py)
 
 <h2><img align="left" alt="ChrisPartin" width="22px" src="https://github.com/Korachof/Korachof/assets/114110894/b378f93a-76c1-4d9f-b787-c9eb77038032" />
  Connect with me:</h2>
