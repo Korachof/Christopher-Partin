@@ -7,12 +7,15 @@
 - <b>Data Structures and Algorithms Practice</b>
   - [Doubly Linked List](https://https://github.com/Korachof/Doubly_Linked_List)
   - [Binary Search Tree](https://github.com/Korachof/binary_search_tree)
+  - [Stack](https://https://github.com/Korachof/Stack)
   - [Queue](https://https://github.com/Korachof/Queue)
+  - [Hash Table](https://https://github.com/Korachof/HashTable)
   - [Graph Data Structure](https://https://github.com/Korachof/Graphs-Data-Structure)
     
 - <b>Python</b>
   - [Rock Paper Scissors Game Application (Object-Oriented Programming)](https://github.com/Korachof/rockPaperScissors)
   - [Hangman Game Application (Object-Oriented Programming)](https://github.com/Korachof/hangman)
+  - [Encoded Message Generator](https://https://github.com/Korachof/Encoded-Message_Generator.git)
     
 - <b>School Projects</b>
 
@@ -23,7 +26,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/christopherpartin
+[instagram]: https://www.instagram.com/korachof/
 [linkedin]: https://www.linkedin.com/in/christopher-partin-6a8b88291
 
 <!--
