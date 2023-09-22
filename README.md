@@ -6,7 +6,7 @@
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Doubly Linked List](https://https://github.com/Korachof/Doubly_Linked_List)
-  - [Binary Search Tree](https://github.com/Korachof/binary_search_tree)
+  - [Binary Search Tree](https://github.com/Korachof/Binary-Search-Tree)
   - [Stack](https://https://github.com/Korachof/Stack)
   - [Queue](https://https://github.com/Korachof/Queue)
   - [Hash Table](https://https://github.com/Korachof/HashTable)
