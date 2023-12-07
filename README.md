@@ -18,6 +18,7 @@
   - [Encoded Message Generator](https://github.com/Korachof/Encoded-Message_Generator.git)
     
 - <b>School Projects</b>
+  - [Full-Stack MERN Website (Javscript, Node, React, MERN, MONGODB)](https://github.com/Korachof/Full-Stack_MERN-Website.git)
   - [Streaming Guide (Object-Oriented Programming)](https://github.com/Korachof/streaming_guide/blob/main/steaming_guide.py)
   - [Checkers (Object-Oriented Programming)](https://github.com/Korachof/Checkers_Portfolio_Project/tree/main)
 
