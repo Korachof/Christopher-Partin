@@ -1,5 +1,5 @@
 <h1>Hello, I'm Chris! Thanks for visiting
-<br/><a href="https://github.com/Korachof/Korachof">Programmer</a>, <a href="www.linkedin.com/in/christopher-partin-6a8b88291">Budding Software Engineer</a>, Writer
+<br/><a href="https://github.com/Korachof/Korachof">Programmer</a>, <a href="https://www.linkedin.com/in/christopher-partin-6a8b88291/">Budding Software Engineer</a>, Writer
 
 <h2><img align="left" alt="ChrisPartin" width="22px" src="https://github.com/Korachof/Korachof/assets/114110894/4954f573-c8b6-4b7a-a9fb-4da29ce45f9f" />
  Software Development Projects:</h2>
