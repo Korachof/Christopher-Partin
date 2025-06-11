@@ -1,4 +1,4 @@
-<h1>Hello, I'm Chris! Thanks for visiting my portfolio!
+<h1>Hello, I'm Chris! Thanks for visiting
  
 <br/>Usability Engineer, Software Engineer, Writer
 
