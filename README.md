@@ -1,4 +1,5 @@
 <h1>Hello, I'm Chris! Thanks for visiting my portfolio!
+ 
 <br/>Usability Engineer, Software Engineer, Writer
 
 <h2><img align="left" alt="ChrisPartin" width="22px" src="https://github.com/Korachof/Korachof/assets/114110894/4954f573-c8b6-4b7a-a9fb-4da29ce45f9f" />
