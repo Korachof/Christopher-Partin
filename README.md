@@ -1,4 +1,4 @@
-<h1>Hello, I'm Chris! Thanks for visiting
+<h1>Hello, I'm Chris! Thanks for visiting my portfolio!
 <br/><a href="https://github.com/Korachof/Korachof">Usability Engineer</a>, <a href="https://www.linkedin.com/in/christopher-partin-6a8b88291/">Software Engineer</a>, Writer
 
 <h2><img align="left" alt="ChrisPartin" width="22px" src="https://github.com/Korachof/Korachof/assets/114110894/4954f573-c8b6-4b7a-a9fb-4da29ce45f9f" />
@@ -6,6 +6,7 @@
 
 - <b>Usability Documentation</b>
   - [Thrive Guides Usability Testing Document](https://docs.google.com/document/d/1eQ2R4CGV7NyMqLLgK4SmbQL_e7m6CQVMxewawmZKfYk/edit?usp=sharing)
+  - [Thrive Guides Round 1 BotPress Usability Testing Document](https://docs.google.com/document/d/17pski5ctfhzcv_t0ubDmppK06tLYJCTtZcoSs0h4QKQ/edit?usp=sharing)
 
 - <b>Data Structures and Algorithms</b>
   - [Doubly Linked List](https://github.com/Korachof/Doubly_Linked_List)
