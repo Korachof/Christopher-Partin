@@ -1,10 +1,13 @@
 <h1>Hello, I'm Chris! Thanks for visiting
-<br/><a href="https://github.com/Korachof/Korachof">Programmer</a>, <a href="https://www.linkedin.com/in/christopher-partin-6a8b88291/">Budding Software Engineer</a>, Writer
+<br/><a href="https://github.com/Korachof/Korachof">Usability Engineer</a>, <a href="https://www.linkedin.com/in/christopher-partin-6a8b88291/">Software Engineer</a>, Writer
 
 <h2><img align="left" alt="ChrisPartin" width="22px" src="https://github.com/Korachof/Korachof/assets/114110894/4954f573-c8b6-4b7a-a9fb-4da29ce45f9f" />
  Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice</b>
+- <b>Usability Documentation</b>
+  - [Thrive Guides Usability Testing Document](https://docs.google.com/document/d/1eQ2R4CGV7NyMqLLgK4SmbQL_e7m6CQVMxewawmZKfYk/edit?usp=sharing)
+
+- <b>Data Structures and Algorithms</b>
   - [Doubly Linked List](https://github.com/Korachof/Doubly_Linked_List)
   - [Binary Search Tree](https://github.com/Korachof/Binary-Search-Tree)
   - [Stack](https://github.com/Korachof/Stack)
@@ -13,11 +16,13 @@
   - [Graph Data Structure](https://github.com/Korachof/Graphs-Data-Structure)
     
 - <b>Python</b>
+  - [Call of Cthulhu Random Character Generator](https://github.com/Korachof/random_npc_gen_call_of_cthulhu)
   - [Rock Paper Scissors Game Application (Object-Oriented Programming)](https://github.com/Korachof/rockPaperScissors)
   - [Hangman Game Application (Object-Oriented Programming)](https://github.com/Korachof/hangman)
   - [Encoded Message Generator](https://github.com/Korachof/Encoded-Message_Generator.git)
     
 - <b>School Projects</b>
+  - [MTG Deckbuilding Assistant with basic UI]([https://github.com/Korachof/361_Repo](https://github.com/Korachof/mtg_deckbuilding_assistant)
   - [Full-Stack MERN Website (Javscript, Node, React, MERN, MONGODB)](https://github.com/Korachof/Full-Stack_MERN-Website.git)
   - [Streaming Guide (Object-Oriented Programming)](https://github.com/Korachof/streaming_guide/blob/main/steaming_guide.py)
   - [Checkers (Object-Oriented Programming)](https://github.com/Korachof/Checkers_Portfolio_Project/tree/main)
@@ -28,8 +33,6 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-[instagram]: https://www.instagram.com/korachof/
 [linkedin]: https://www.linkedin.com/in/christopher-partin-6a8b88291
 
 <!--
