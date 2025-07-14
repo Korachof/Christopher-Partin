@@ -5,6 +5,9 @@
 <h2><img align="left" alt="ChrisPartin" width="22px" src="https://github.com/Korachof/Korachof/assets/114110894/4954f573-c8b6-4b7a-a9fb-4da29ce45f9f" />
  Software Development Projects:</h2>
 
+ - <b>Current Projects</b>
+ - [Trash Quest - Google Firebase, Javascript, React, Node](https://github.com/Korachof/TrashQuest)
+
 - <b>Usability Documentation</b>
   - [Thrive Guides Usability Testing Document](https://docs.google.com/document/d/1eQ2R4CGV7NyMqLLgK4SmbQL_e7m6CQVMxewawmZKfYk/edit?usp=sharing)
   - [Thrive Guides Round 1 BotPress Usability Testing Document](https://docs.google.com/document/d/17pski5ctfhzcv_t0ubDmppK06tLYJCTtZcoSs0h4QKQ/edit?usp=sharing)
