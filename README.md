@@ -6,7 +6,7 @@
  Software Development Projects:</h2>
 
  - <b>Current Projects</b>
- - [Trash Quest (Google Firebase, Javascript, React, Node)](https://github.com/Korachof/TrashQuest)
+   - [Trash Quest (Google Firebase, Javascript, React, Node)](https://github.com/Korachof/TrashQuest)
 
 - <b>Usability Documentation</b>
   - [Thrive Guides Usability Testing Document](https://docs.google.com/document/d/1eQ2R4CGV7NyMqLLgK4SmbQL_e7m6CQVMxewawmZKfYk/edit?usp=sharing)
