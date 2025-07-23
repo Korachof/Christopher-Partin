@@ -1,12 +1,13 @@
 <h1>Hello, I'm Chris! Thanks for visiting
  
-<br/>Usability Engineer, Software Engineer, Writer
+<br/>Usability Engineer, Data Engineer, Software Engineer, Writer
 
 <h2><img align="left" alt="ChrisPartin" width="22px" src="https://github.com/Korachof/Korachof/assets/114110894/4954f573-c8b6-4b7a-a9fb-4da29ce45f9f" />
  Software Development Projects:</h2>
 
  - <b>Current Projects</b>
    - [Trash Quest (Google Firebase, Javascript, React, Node)](https://github.com/Korachof/TrashQuest)
+   - [SQL 3D Model Tracker (SQL, CRUD, Metadata Storage, Data Filtering/Querying Thingiverse API](https://github.com/Korachof/sql-3d-model-tracker)
 
 - <b>Usability Documentation</b>
   - [Thrive Guides Usability Testing Document](https://docs.google.com/document/d/1eQ2R4CGV7NyMqLLgK4SmbQL_e7m6CQVMxewawmZKfYk/edit?usp=sharing)
