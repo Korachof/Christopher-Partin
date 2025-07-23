@@ -28,6 +28,7 @@
   - [Encoded Message Generator](https://github.com/Korachof/Encoded-Message_Generator.git)
     
 - <b>School Projects</b>
+  - [Databases Final - A Zelda: BotW recipe and ingredients database (CRUD, SQL, Flask, Querying, Data Handling, Data tables)](https://github.com/Korachof/Databases_Final)
   - [MTG Deckbuilding Assistant with basic UI(Python, Tkinter](https://github.com/Korachof/mtg_deckbuilding_assistant)
   - [Full-Stack MERN Website (Javascript, Node, React, MERN, MONGODB)](https://github.com/Korachof/Full-Stack_MERN-Website.git)
   - [Streaming Guide (Object-Oriented Programming)](https://github.com/Korachof/streaming_guide/blob/main/steaming_guide.py)
